@@ -1,0 +1,41 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.logo {
+  position: absolute;
+  width: 75%;
+}
+
+.back {
+  opacity: 0.4;
+  height: 350px;
+  object-fit: cover;
+}
+
+.buttonsContainer {
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.buttonsContainer > a {
+  width: 50%;
+}
+
+.buttonsContainer ion-button {
+  width: 100%;
+  color: #949494;
+  margin: 0;
+  font-weight: bold;
+}
+
+.active {
+  color: white !important;
+  border-bottom: 3px solid white;
+}

@@ -1,0 +1,6 @@
+{
+	"appId": "com.fitback",
+	"appName": "FitBack",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

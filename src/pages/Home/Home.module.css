@@ -1,0 +1,31 @@
+.image {
+  width: 200px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: flex-end;
+}
+
+.video {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: -1;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.join {
+  width: 160px;
+}
+
+.login {
+  width: 160px;
+}

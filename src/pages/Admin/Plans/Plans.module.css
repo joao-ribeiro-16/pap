@@ -1,0 +1,26 @@
+.title {
+  color: white;
+  font-size: 25px;
+}
+.image {
+  opacity: 0.4;
+  height: 150px;
+  width: 100%;
+  object-fit: cover;
+}
+.add {
+  color: white;
+}
+.new {
+  width: 20%;
+}
+.card {
+  height: 150px;
+  width: 92%;
+  object-fit: cover;
+}
+
+.icon {
+  color: rgb(255, 255, 255);
+  width: 200px;
+}

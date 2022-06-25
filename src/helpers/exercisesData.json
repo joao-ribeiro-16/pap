@@ -1,0 +1,50 @@
+[
+  {
+    "idExercise": 1,
+    "nameExercise": "abdominais1",
+    "selected": false,
+    "durationExercise": 60
+  },
+  {
+    "idExercise": 2,
+    "nameExercise": "cicleKicks2",
+    "selected": false,
+    "durationExercise": 60
+  },
+  {
+    "idExercise": 3,
+    "nameExercise": "flexoes3",
+    "selected": false,
+    "durationExercise": 60
+  },
+  {
+    "idExercise": 4,
+    "nameExercise": "jumpingJacks4",
+    "selected": false,
+    "durationExercise": 60
+  },
+  {
+    "idExercise": 5,
+    "nameExercise": "pistol5",
+    "selected": false,
+    "durationExercise": 60
+  },
+  {
+    "idExercise": 6,
+    "nameExercise": "prancha6",
+    "selected": false,
+    "durationExercise": 60
+  },
+  {
+    "idExercise": 7,
+    "nameExercise": "burpee7",
+    "selected": false,
+    "durationExercise": 60
+  },
+  {
+    "idExercise": 8,
+    "nameExercise": "pileWalk8",
+    "selected": false,
+    "durationExercise": 60
+  }
+]

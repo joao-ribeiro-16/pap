@@ -1,0 +1,7 @@
+{
+  "name": "JPro Fit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

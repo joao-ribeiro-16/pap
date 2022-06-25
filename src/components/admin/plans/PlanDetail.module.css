@@ -1,0 +1,16 @@
+.title {
+  color: white;
+  font-size: 25px;
+}
+
+.card {
+  height: 90px;
+  width: 90%;
+  border-radius: 50px;
+}
+
+.div {
+  position: "absolute";
+  left: 50px;
+  top: 33px;
+}
